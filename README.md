@@ -1,7 +1,7 @@
 # PCMonitor
 ---
 ## Grafana Dashboard
-<img width="1280" height="695" alt="Image" src="https://github.com/user-attachments/assets/627e4da9-7b8d-4991-ad15-b4c8c2edefc8" />
+<img width="3832" height="2159" alt="Image" src="https://github.com/user-attachments/assets/94a03d64-5cbd-49db-bbd0-a51d617256f0" />
 
 Before I took this screenshot, I launched Battlefield 6 -- you can see the resource spike.
 

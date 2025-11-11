@@ -1,0 +1,10 @@
+InfluxDB_config.py
+PC-HW-Tracking.code-workspace
+cpu-test.json
+gpu-test.json
+.venv/
+__pycache__/
+logs/
+build/
+dist/
+PCMonitor.spec
